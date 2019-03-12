@@ -1,0 +1,7 @@
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer\bin\Debug\TaskServer.exe.config
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer\bin\Debug\TaskServer.exe
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer\bin\Debug\TaskServer.pdb
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer\obj\Debug\TaskServer.csprojAssemblyReference.cache
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer\obj\Debug\TaskServer.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer\obj\Debug\TaskServer.exe
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer\obj\Debug\TaskServer.pdb

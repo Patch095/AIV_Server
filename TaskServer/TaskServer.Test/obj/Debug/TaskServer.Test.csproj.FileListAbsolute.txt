@@ -1,0 +1,17 @@
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\TaskServer.Test.dll
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\TaskServer.Test.pdb
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\nunit.framework.dll
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\TaskServer.exe
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\TaskServer.pdb
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\TaskServer.exe.config
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\nunit.framework.pdb
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\nunit.framework.xml
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\obj\Debug\TaskServer.Test.csprojAssemblyReference.cache
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\obj\Debug\TaskServer.Test.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\obj\Debug\TaskServer.Test.csproj.CopyComplete
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\obj\Debug\TaskServer.Test.dll
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\obj\Debug\TaskServer.Test.pdb
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\nunit.engine.dll
+C:\Users\Tommaso\source\repos\TaskServer\TaskServer.Test\bin\Debug\nunit.engine.api.dll
