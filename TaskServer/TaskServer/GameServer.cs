@@ -8,7 +8,6 @@ using System.Diagnostics;
 
 namespace TaskServer
 {
-    //Stat
     public class GameServer
     {
         private delegate void GameCommand(byte[] data, EndPoint sender);
@@ -88,9 +87,7 @@ namespace TaskServer
                 }
                 //bad behaviour, malus update
                 else
-                {
                     client.IncreaseMalus();
-                }
             }
         }
 
@@ -255,7 +252,7 @@ namespace TaskServer
             return newGameObject;
         }
 
-        public GameObject GetGameObj(uint objId)
+        public GameObject GetGameObject(uint objId)
         {
             if (gameObjectsTable.ContainsKey(objId))
                 return gameObjectsTable[objId];
@@ -264,10 +261,3 @@ namespace TaskServer
         }
     }
 }
-
-/* AGGIUNTE:
-    - malus, gestione via avatar/server
-
-    - WIP GameClient LogOut
-    - WIP GameObj removal
-*/
